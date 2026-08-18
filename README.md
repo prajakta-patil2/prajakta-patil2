@@ -2,7 +2,7 @@
 <h3 align="center">Python Backend Developer | BFSI Domain | AWS & Azure Certified</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prajakta-patil-2194a712a" target="_blank">
+  <a href="https://www.linkedin.com/in/prajakta-patil-2194a712a" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:prajaktarpatil22@gmail.com">
