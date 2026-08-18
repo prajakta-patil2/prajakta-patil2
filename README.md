@@ -71,8 +71,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta-patil2&hide_border=true" width="48%" />
 </p>
 
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username for these widgets to render.
-
 ---
 
 ### 🏆 Certifications
